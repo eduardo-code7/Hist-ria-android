@@ -1,1 +1,1 @@
-Este projeto é uma recriação de um desafio do curso de HTML e CSS. Com o objetivo  de aplicar conceitos de responsividade e boas práticas de desenvolvimento. Durante o processo, aprendi a estruturar o layout, estilizar elementos forma eficiente.
+
